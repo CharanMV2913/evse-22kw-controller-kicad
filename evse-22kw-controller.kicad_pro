@@ -1,1 +1,18 @@
-{}
+{
+  "meta": {
+    "version": 5,
+    "file_format": "1.1"
+  },
+  "board": {
+    "file": "evse-22kw-controller.kicad_pcb"
+  },
+  "author": "GitHub Copilot",
+  "title": "EVSE 22kW Controller Prototype",
+  "lib": [],
+  "schematics": [
+    {
+      "file": "evse-22kw-controller.kicad_sch"
+    }
+  ],
+  "text_variables": {}
+}
